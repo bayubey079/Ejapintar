@@ -2,7 +2,7 @@ import streamlit as st
 import re
 st.set_page_config(page_title="EjaPintar - Checker Ejaan", page_icon="📝")
 
-st.title("📝 EjaPintar")
+st.title("📝 pinterEJA")
 st.subheader("Prototipe Pemindai Ejaan & Tanda Baca (EYD V)")
 
 KAMUS_BAKU = {
