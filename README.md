@@ -1,0 +1,2 @@
+# Ejapintar
+prototype pemindai ejaan
